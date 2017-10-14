@@ -1,3 +1,6 @@
+/* 
+ * Complexity: O(N^2) time, O(1) space 
+ */
 public class BubbleSort {
 	
 	public void sort(int [] arr) {
