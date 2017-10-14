@@ -1,4 +1,4 @@
-/* Check if array contains a value
+/* 
  * Complexity: O(N) time, O(1) space
  */
 public class LinearSearch {
