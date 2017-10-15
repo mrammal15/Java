@@ -1,4 +1,4 @@
-/* Check if array contains a value
+/* 
  * NOTE: array must be sorted for binary search
  * Complexity: O(logN) time, O(1) space 
  */
